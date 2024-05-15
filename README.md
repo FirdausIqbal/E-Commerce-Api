@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-<* API untuk request data ke database Postgre *>
+# Learning Create E-Commerce API
 
-// membuat fitur GET untuk query dari database dan memberi response JSON
-// membuat fituer POST yang melakukan query ke dalam database
-// membuat fitur PUT melakukan update database
-// membuat fitur DELETE menghapus data dari database
-// otentikasi menggunakan Jsonwebtoken (JWT)
-=======
-# E-Commerce-Api
-Learning Create a E-commerce API 
->>>>>>> origin/main
+** Deskripsi **
+Belajar membuat sistem API untuk E-Commerce yang dapat Post, Put, Update, dan Delete pada database. Dibuat menggunakan NodeJs, Express, dan PostgreQL.
+
+
