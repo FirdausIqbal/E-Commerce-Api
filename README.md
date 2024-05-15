@@ -5,9 +5,16 @@ Belajar membuat sistem API untuk E-Commerce yang dapat Post, Put, Update, dan De
 <br><br>
 ** Route **<br>
 - auth<br>
-route untuk melakukan registrasi akun atau login
+pada route ini akan melakukan registrasi akun atau login
 - cart<br>
-route cart akan membuat response pada pembuatan pemesanan
+route cart akan membuat response pada sistem keranjang belanja, seperti menyimpan barang sebelum di checkout
+- order<br>
+route order akan membuat response pada pembuatan pemesanan
+- product<br>
+route product akan menghandle response untuk mendapatkan data produk
+- user<br>
+route user melakukan update data user, mendapatkan semua data user, dan menghapus data user (ini hanya bisa dilakukan untuk admin "isAdmin = true")
+
 
 
 ** Instlasi **<br>
