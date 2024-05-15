@@ -4,9 +4,9 @@
 Belajar membuat sistem API untuk E-Commerce yang dapat Post, Put, Update, dan Delete pada database. Dibuat menggunakan NodeJs, Express, dan PostgreQL.
 <br><br>
 ** Route **<br>
-- auth
+- auth<br>
 route untuk melakukan registrasi akun atau login
-- cart
+- cart<br>
 route cart akan membuat response pada pembuatan pemesanan
 
 
