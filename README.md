@@ -18,7 +18,9 @@ route user melakukan update data user, mendapatkan semua data user, dan menghapu
 
 
 ** Instlasi **<br>
-1. clone repository "git clone https://github.com/FirdausIqbal/E-Commerce-Api.git"
-2. masuk ke directori proyek "cd E-Commerce-API"
+1. Clone repository "git clone https://github.com/FirdausIqbal/E-Commerce-Api.git"
+2. Masuk ke directori proyek "cd E-Commerce-API"
 3. Install dependencies "npm install"
+4. Jalankan proyek "npm start" | disarankan untuk install 'nodemon' "npm i -g nodemon"
+5. Coba semua route menggunakan Postman pada 'localhost:3001'
 
